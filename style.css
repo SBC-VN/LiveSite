@@ -1,5 +1,7 @@
 body {
     color: #777777;
+    background-color: #ffffff;
+    font-size: 22pt;
 }
 
 #main-header {
@@ -43,5 +45,14 @@ li {
     height: 960px;
     margin-top: 0;
     margin-block-start: 0;
-    background-color: purple;
+}
+
+#bearhead {
+    float: left;
+    size: 30%;
+}
+
+#biography {
+    float: right;
+    size: 60%;
 }
